@@ -1,0 +1,9 @@
+aws_region       = "us-east-1"
+project_name     = "technova"
+environment      = "dev"
+department       = "IT"
+ami_id           = "ami-0ec10929233384c7f"
+instance_type    = "t3.micro"
+desired_capacity = 2
+min_size         = 2
+max_size         = 4
